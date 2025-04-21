@@ -10,7 +10,11 @@ public:
 };
 
 bool MyApp::OnInit() {
-    wxFrame* frame = new wxFrame(nullptr, wxID_ANY, "Demo");
+
+    // main window frame
+    wxFrame* frame = new wxFrame(nullptr, wxID_ANY, "String Solver");
+
+    // button
     wxButton* button = new wxButton(frame, wxID_ANY, "Click Me");
     button->Bind(wxEVT_BUTTON,
                  [](wxCommandEvent&) {
