@@ -1,0 +1,3 @@
+/home/ardafikretazakli/CLionProjects/firstGUI/cmake-build-debug/CMakeFiles/firstGUI.dir
+/home/ardafikretazakli/CLionProjects/firstGUI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ardafikretazakli/CLionProjects/firstGUI/cmake-build-debug/CMakeFiles/rebuild_cache.dir

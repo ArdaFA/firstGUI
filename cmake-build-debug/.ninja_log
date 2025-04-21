@@ -1,0 +1,11 @@
+# ninja log v6
+5241	5614	1745250210890767436	firstGUI	63fcf254afde5a41
+184	1342	1745249006580309096	CMakeFiles/firstGUI.dir/main.cpp.o	a8f94ddb0a72a08c
+175	183	1745249006580005866	CMakeFiles/firstGUI.dir/main.cpp.o.modmap	bb5428d39898fe65
+175	183	1745249006580005866	/home/ardafikretazakli/CLionProjects/firstGUI/cmake-build-debug/CMakeFiles/firstGUI.dir/CXXModules.json	bb5428d39898fe65
+175	183	1745249006580005866	CMakeFiles/firstGUI.dir/CXX.dd	bb5428d39898fe65
+1	175	1745249006397524395	CMakeFiles/firstGUI.dir/main.cpp.o.ddi	46c713256fff9d4c
+4	639	1745250794560474223	build.ninja	f40d4e4b62fa3a29
+1	5239	1745250205650761091	CMakeFiles/firstGUI.dir/src/main.cpp.o	8bd90349a76cff40
+19	5833	1745250823610509401	CMakeFiles/firstGUI.dir/src/main.cpp.o	8bd90349a76cff40
+5833	6287	1745250829423516440	firstGUI	63fcf254afde5a41

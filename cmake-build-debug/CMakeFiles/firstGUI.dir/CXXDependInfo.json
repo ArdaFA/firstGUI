@@ -1,0 +1,27 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/ardafikretazakli/CLionProjects/firstGUI/cmake-build-debug",
+	"dir-cur-src" : "/home/ardafikretazakli/CLionProjects/firstGUI",
+	"dir-top-bld" : "/home/ardafikretazakli/CLionProjects/firstGUI/cmake-build-debug",
+	"dir-top-src" : "/home/ardafikretazakli/CLionProjects/firstGUI",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/ardafikretazakli/CLionProjects/firstGUI/cmake-build-debug/CMakeFiles/firstGUI.dir",
+	"sources" : 
+	{
+		"CMakeFiles/firstGUI.dir/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/ardafikretazakli/CLionProjects/firstGUI/main.cpp"
+		}
+	}
+}
